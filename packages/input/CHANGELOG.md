@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.3](https://github.com/serhii-havrylenko/monorepo-babel-ts-lerna-starter/compare/@taxi/input@0.1.2...@taxi/input@0.1.3) (2018-12-12)
+
+
+### Bug Fixes
+
+* foo ([5d63a31](https://github.com/serhii-havrylenko/monorepo-babel-ts-lerna-starter/commit/5d63a31))
+
+
+
+
+
 ## 0.1.2 (2018-12-12)
 
 **Note:** Version bump only for package @taxi/input
