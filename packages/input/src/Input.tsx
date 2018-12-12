@@ -1,6 +1,7 @@
 import * as React from 'react';
 import styled from 'styled-components';
 
+console.log('foo');
 export interface LabelProps {
   labelWidth?: number;
 }
