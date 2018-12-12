@@ -1,0 +1,30 @@
+{
+  "name": "@taxi/login-form",
+  "version": "0.0.2",
+  "description": "Login form component",
+  "main": "/dist/index.js",
+  "types": "dist/index.d.ts",
+  "author": "chef",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serhii-havrylenko/monorepo-babel-ts-lerna-starter.git"
+  },
+  "peerDependencies": {
+    "react": "^16.5.1",
+    "styled-components": "^3.4.6"
+  },
+  "scripts": {
+    "tsc": "tsc --project tsconfig.build.json",
+    "build": "BABEL_ENV=build babel src --root-mode upward --out-dir dist --source-maps --extensions .ts,.tsx --delete-dir-on-start --no-comments"
+  },
+  "files": [
+    "dist"
+  ],
+  "dependencies": {
+    "@taxi/input": "^0.1.1"
+  },
+  "publishConfig": {
+    "registry": "http://localhost:4873"
+  }
+}
