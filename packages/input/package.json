@@ -1,6 +1,6 @@
 {
   "name": "@taxi/input",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Input component",
   "author": "chef <serhii.havrylenko@gmail.com>",
   "homepage": "https://github.com/serhii-havrylenko/monorepo-babel-ts-lerna-starter",

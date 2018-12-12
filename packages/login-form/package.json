@@ -1,6 +1,6 @@
 {
   "name": "@taxi/login-form",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Login form component",
   "main": "/dist/index.js",
   "types": "dist/index.d.ts",
@@ -22,7 +22,7 @@
     "dist"
   ],
   "dependencies": {
-    "@taxi/input": "^0.1.1"
+    "@taxi/input": "^0.1.2"
   },
   "publishConfig": {
     "registry": "http://localhost:4873"
