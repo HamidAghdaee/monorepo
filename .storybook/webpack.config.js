@@ -16,7 +16,7 @@ module.exports = (baseConfig, env, config) => {
     ...packages.reduce(
       (acc, name) => ({
         ...acc,
-        [`@taxi/${name}`]: path.join(basePath, name, 'src'),
+        [`@taxi/${name}`]: path.join(`@taxi/${name}`, 'src'),
       }),
       {},
     ),

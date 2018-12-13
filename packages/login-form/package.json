@@ -22,9 +22,10 @@
     "dist"
   ],
   "dependencies": {
-    "@taxi/input": "^0.1.3"
+    "@taxi/input": "0.1.2"
   },
   "publishConfig": {
     "registry": "http://localhost:4873"
-  }
+  },
+  "gitHead": "9a90521916b51a6043b9bcd3fd23bdfad2754783"
 }

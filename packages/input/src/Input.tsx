@@ -1,7 +1,6 @@
 import * as React from 'react';
 import styled from 'styled-components';
 
-console.log('foo');
 export interface LabelProps {
   labelWidth?: number;
 }
@@ -47,6 +46,7 @@ export const Input: React.SFC<InputProps & InputLabelProps> = ({
   <Wrapper>
     {label && (
       <Label labelWidth={labelWidth} htmlFor={id}>
+        <div>foo</div>
         {label}:
       </Label>
     )}
