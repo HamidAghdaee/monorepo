@@ -1,6 +1,6 @@
 {
   "name": "@taxi/login-form",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Login form component",
   "main": "/dist/index.js",
   "types": "dist/index.d.ts",
@@ -19,7 +19,7 @@
     "build": "BABEL_ENV=build babel src --root-mode upward --out-dir dist --source-maps --extensions .ts,.tsx --delete-dir-on-start --no-comments"
   },
   "dependencies": {
-    "@taxi/input": "^0.1.6"
+    "@taxi/input": "^0.1.7"
   },
   "publishConfig": {
     "registry": "http://localhost:4873"
