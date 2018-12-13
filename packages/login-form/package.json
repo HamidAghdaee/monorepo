@@ -18,11 +18,8 @@
     "tsc": "tsc --project tsconfig.build.json",
     "build": "BABEL_ENV=build babel src --root-mode upward --out-dir dist --source-maps --extensions .ts,.tsx --delete-dir-on-start --no-comments"
   },
-  "files": [
-    "dist"
-  ],
   "dependencies": {
-    "@taxi/input": "0.1.2"
+    "@taxi/input": "^0.1.5"
   },
   "publishConfig": {
     "registry": "http://localhost:4873"

@@ -1682,11 +1682,6 @@
     react-modal "^3.6.1"
     react-treebeard "^3.1.0"
 
-"@taxi/input@0.1.2":
-  version "0.1.2"
-  resolved "http://localhost:4873/@taxi%2finput/-/input-0.1.2.tgz#574e7075479843e72bfde995fca74e12bc85fd24"
-  integrity sha512-PEHUpxDzPP6x7bZeTjhRgHOHCMiuA42DLVsfGDvqf5rqJZ1Nfj33fqr5SAzthWVWJ7wRSPVl8s92w1buPVcH9w==
-
 "@types/cheerio@*":
   version "0.22.10"
   resolved "http://localhost:4873/@types%2fcheerio/-/cheerio-0.22.10.tgz#780d552467824be4a241b29510a7873a7432c4a6"
