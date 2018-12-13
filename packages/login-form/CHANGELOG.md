@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.6](https://github.com/serhii-havrylenko/monorepo-babel-ts-lerna-starter/compare/@taxi/login-form@0.0.5...@taxi/login-form@0.0.6) (2018-12-13)
+
+
+### Bug Fixes
+
+* foo ([9e5c9f7](https://github.com/serhii-havrylenko/monorepo-babel-ts-lerna-starter/commit/9e5c9f7))
+
+
+
+
+
 ## [0.0.5](https://github.com/serhii-havrylenko/monorepo-babel-ts-lerna-starter/compare/@taxi/login-form@0.0.4...@taxi/login-form@0.0.5) (2018-12-13)
 
 
