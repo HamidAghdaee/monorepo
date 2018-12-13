@@ -46,7 +46,6 @@ export const Input: React.SFC<InputProps & InputLabelProps> = ({
   <Wrapper>
     {label && (
       <Label labelWidth={labelWidth} htmlFor={id}>
-        <div>version post</div>
         {label}:
       </Label>
     )}
